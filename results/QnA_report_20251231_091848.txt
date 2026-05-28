@@ -1,0 +1,4 @@
+=== Q&A SESSION ===
+Query: How are you?
+Answer: Machine learning automates analytical model building.
+Similarity Score: 0.81
